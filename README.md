@@ -3,4 +3,8 @@ Tool used for creating macro embeded Microsoft office payloads (MS Word and MS E
 
 Credit:
 Matt Graeber (Powersploit)
-enigma0x3
+enigma0x3 (Macro-Create)
+Ingo Karstein (PS2EXE)
+
+
+
